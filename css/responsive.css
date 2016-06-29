@@ -1,0 +1,12 @@
+    <link rel="stylesheet" href="css/main.css">
+
+@media screen and (min-width: 430;) {
+  body { background: navy;
+    
+  }
+  
+  @media screen and (min-width: 660px) {
+    body { background: darkgreen;
+      
+    }
+    
